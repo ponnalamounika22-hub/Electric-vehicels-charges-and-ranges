@@ -129,18 +129,25 @@ Project Plan
 
 Week 1
 •	Dataset collection 
+
 Week 2
 •	Database creation 
+
 Week 3
 •	SQL queries 
+
 Week 4
 •	Tableau dashboard development 
+
 Week 5
 •	Testing 
+
 Week 6
 •	Documentation 
+
 Week 7
 •	GitHub Upload 
+
 ________________________________________
 
 📁 5. Project Development Phase
@@ -149,28 +156,47 @@ Dataset
 
 The project uses an Electric Vehicle dataset containing:
 •	Brand 
+
 •	Model 
+
 •	Top Speed 
+
 •	Range 
+
 •	Efficiency 
+
 •	Charging Speed 
+
 •	Price 
+
 •	Seats 
+
 •	Body Style 
+
 •	PowerTrain 
 
 Database Development
+
 The dataset was imported into MySQL Workbench.
+
 Several SQL queries were executed to retrieve useful information for dashboard creation.
+
 Dashboard Development
 
 The Tableau dashboard contains:
+
 •	EV Charging Stations 
+
 •	Top Speed Analysis 
+
 •	Price Analysis 
+
 •	Range Comparison 
+
 •	Top 10 Efficient EV Brands 
+
 •	Body Style Distribution 
+
 •	PowerTrain Filter 
 ________________________________________
 
@@ -178,13 +204,13 @@ ________________________________________
 
 Test Cases
 
-Test Case	Expected Result	Status
-Dataset Import	Successful	Pass
-MySQL Connection	Connected	Pass
-SQL Query Execution	Correct Output	Pass
-Tableau Connection	Connected	Pass
-Dashboard Filter	Working	Pass
-Dashboard Visualization	Correct	Pass
+Test Case	     Expected Result	     Status
+Dataset Import	        Successful	        Pass
+MySQL Connection	Connected	        Pass
+SQL Query Execution	Correct Output	        Pass
+Tableau Connection	Connected	        Pass
+Dashboard Filter	Working         	Pass
+Dashboard Visualization	Correct	                Pass
 ________________________________________
 
 📁 7. Project Documentation
@@ -197,23 +223,36 @@ ________________________________________
 📁 8. Project Demonstration
 
 
-1.	Open MySQL Workbench. 
-2.	Import the EV dataset. 
-3.	Execute SQL queries. 
-4.	Connect Tableau to MySQL. 
-5.	Create interactive dashboards. 
-6.	Apply filters. 
-7.	Analyze the results. 
+1.	Open MySQL Workbench.
+	
+2.	Import the EV dataset.
+
+
+3.	Execute SQL queries.
+	 
+4.   	Connect Tableau to MySQL.
+	 
+5.	Create interactive dashboards.
+	 
+6.	Apply filters.
+	
+7.	Analyze the results.
+	
 8.	Present dashboard insights. 
 ________________________________________
 
 Project Outcomes
 
 •	Successfully imported EV dataset into MySQL. 
+
 •	Connected MySQL with Tableau. 
+
 •	Developed interactive dashboards. 
-•	Visualized EV charging and range analysis. 
-•	Compared EV brands, prices, and efficiencies. 
+
+•	Visualized EV charging and range analysis.
+
+•	Compared EV brands, prices, and efficiencies.
+
 •	Generated meaningful insights from EV data. 
 
 ## 👨💻 Author
