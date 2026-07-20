@@ -33,9 +33,13 @@ Various research papers, EV manufacturer websites, and government reports were s
 Objectives
 
 •	Analyze EV datasets efficiently. 
+
 •	Visualize charging speed and driving range. 
+
 •	Compare different EV brands. 
+
 •	Study vehicle efficiency. 
+
 •	Build an interactive Tableau dashboard. 
 ________________________________________
 
@@ -43,32 +47,46 @@ ________________________________________
 
 Functional Requirements
 
-•	Import EV dataset into MySQL. 
+•	Import EV dataset into MySQL.
+
 •	Perform SQL queries. 
+
 •	Connect MySQL with Tableau. 
+
 •	Create interactive dashboards. 
+
 •	Filter data based on brands and vehicle type. 
 
 Non-Functional Requirements
 
 •	Easy to use. 
+
 •	Fast dashboard loading. 
+
 •	Accurate visualization. 
+
 •	User-friendly interface. 
+
 •	Reliable data presentation. 
 
 Software Requirements
 
 •	Windows 10/11 
+
 •	MySQL Workbench 
+
 •	Tableau Desktop 
+
 •	Microsoft Excel 
+
 •	GitHub 
 
 Hardware Requirements
 
 •	Intel i3 or above 
+
 •	4GB RAM (8GB recommended) 
+
 •	10GB free storage 
 ________________________________________
 
@@ -89,12 +107,19 @@ Tableau
 Interactive Dashboard
 
 Dashboard Modules
+
 •	Charging Stations Analysis 
+
 •	EV Range Analysis 
+
 •	Price Comparison 
+
 •	Brand Analysis 
+
 •	Vehicle Efficiency 
+
 •	Body Style Distribution 
+
 •	PowerTrain Analysis 
 ________________________________________
 
