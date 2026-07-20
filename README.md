@@ -1,5 +1,6 @@
 # Electric-vehicels-charges-and-ranges
-A web-based application that simplifies the recruitment process by automatically screening resumes and helping recruiters identify the most suitable candidates efficiently.
+
+This project presents an interactive dashboard for analyzing electric vehicle (EV) charging infrastructure and vehicle performance in India. It enables users to compare EV brands based on driving range, charging speed, efficiency, top speed, price, body style, and powertrain. The dashboard provides meaningful visualizations to support data-driven insights into the growing EV ecosystem.
 ________________________________________
 
 🎥 Project Demo Video:
